@@ -54,10 +54,5 @@ A simple weather application that allows users to search for a city's weather co
 ## License
 This project is open-source and available under the MIT License.
 
-
-##Weather App Preview
-![Home](AppPhoto/Home.png)
-![City1](AppPhoto/City1.png)
-![City2](AppPhoto/City2.png)
-![city3](AppPhoto/City3.png)
-![InvalidCity](AppPhoto/InvalidCity.png)
+## Weather App Preview
+<table> <tr> <td><img src="AppPhoto/Home.png" alt="Home Screen" width="400"></td> <td><img src="AppPhoto/City1.png" alt="City 1 Weather" width="400"></td> </tr> <tr> <td><img src="AppPhoto/City2.png" alt="City 2 Weather" width="400"></td> <td><img src="AppPhoto/City4.png" alt="City 4 Weather" width="400"></td> </tr> <tr> <td><img src="AppPhoto/City3.png" alt="City 3 Weather" width="400"></td> <td><img src="AppPhoto/InvalidCity.png" alt="Invalid City Error" width="400"></td> </tr> </table> ```
