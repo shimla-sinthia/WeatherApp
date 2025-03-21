@@ -2,7 +2,7 @@
 
 A simple weather application that allows users to search for a city's weather conditions, including temperature, humidity, and wind speed. The application fetches real-time weather data and presents it in a visually appealing user interface.
 
-![Home](AppPhoto/Home.png)
+
 
 ## Features
 - 🌤 **Real-time Weather Data**: Fetches current weather conditions for any city.
@@ -54,3 +54,10 @@ A simple weather application that allows users to search for a city's weather co
 ## License
 This project is open-source and available under the MIT License.
 
+
+##Weather App Preview
+![Home](AppPhoto/Home.png)
+![City1](AppPhoto/City1.png)
+![City2](AppPhoto/City2.png)
+![city3](AppPhoto/City3.png)
+![InvalidCity](AppPhoto/InvalidCity.png)
