@@ -2,7 +2,7 @@
 
 A simple weather application that allows users to search for a city's weather conditions, including temperature, humidity, and wind speed. The application fetches real-time weather data and presents it in a visually appealing user interface.
 
-![Home](Home.png)
+![Home](AppPhoto/Home.png)
 
 ## Features
 - 🌤 **Real-time Weather Data**: Fetches current weather conditions for any city.
